@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity"
+    android:orientation="vertical"
+    android:padding="16dp">
+
+    <Button
+        android:id="@+id/Cib"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="CIB"
+        android:textStyle="bold"
+        android:textSize="22sp"/>
+
+    <Button
+        android:id="@+id/Enr"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="ENR"
+        android:textStyle="bold"
+        android:textSize="22sp"/>
+
+    <Button
+        android:id="@+id/Swvl"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="SWVL"
+        android:textStyle="bold"
+        android:textSize="22sp"/>
+
+    <Button
+        android:id="@+id/Vezeeta"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="VEZEETA"
+        android:textStyle="bold"
+        android:textSize="22sp"/>
+
+    <Button
+        android:id="@+id/AnaVodafone"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Ana Vodafone"
+        android:textStyle="bold"
+        android:textSize="22sp"/>
+
+    <Button
+        android:id="@+id/Btech"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="B.TECH"
+        android:textStyle="bold"
+        android:textSize="22sp"/>
+
+    <Button
+        android:id="@+id/AlexBank"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="ALEXBANK MobiLe Banking"
+        android:textStyle="bold"
+        android:textSize="22sp"/>
+
+    <Button
+        android:id="@+id/BankCairo"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Banque Du Caire"
+        android:textStyle="bold"
+        android:textSize="22sp"/>
+
+    <Button
+        android:id="@+id/BankiMobile"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Banki Mobile"
+        android:textStyle="bold"
+        android:textSize="22sp"/>
+
+    <Button
+        android:id="@+id/EgPost"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Egypt Post"
+        android:textStyle="bold"
+        android:textSize="22sp"/>
+
+</LinearLayout>
